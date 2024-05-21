@@ -11,7 +11,7 @@ public:
     void colocardinheiro() {
         int dinheiro = 10;
         saldo += dinheiro;
-        cout << saldo << endl;
+        cout << saldo << en dl;
     }
 };
 
